@@ -2588,3 +2588,8 @@ span.icon_g_plus {
     background-color: white;
     color: black !important;
 }
+
+.icon_git {
+    background-color: black;
+    color: white;
+}
